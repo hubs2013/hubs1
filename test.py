@@ -9,7 +9,7 @@
 # # strlist2='/'.join(jl2)
 # # print(strlist)
 # # print(strlist2)
-#
+
 #
 # # str="Hello Adam, how are you? I hope everything is going well.  Today is a good day, see you dude."
 #
@@ -55,7 +55,7 @@
 #
 # print(list1)
 # print(list2)
-#
+
 # # 寻找第N个丑数，思路：选用三指针的方法，依次增加下一个丑数
 # def find_ugly_number(index):
 #     if index==1:
@@ -116,7 +116,7 @@
 # for i in range(len(nex_arr2)):
 #     res+=str(arr[nex_arr.index(nex_arr2[i])])
 #     nex_arr[nex_arr.index(nex_arr2[i])]=0
-#
+
 # print(res)
 
 
